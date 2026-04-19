@@ -2,7 +2,7 @@ class SturmTranspile < Formula
   desc "C++ DSL transpiler for quantum-classical programming with compile-time uncompute"
   homepage "https://github.com/SoerenWilkening/Sturm_CPP"
   url "https://github.com/SoerenWilkening/Sturm_CPP/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "4a3362207113f81c12ad2cb5131992ac1a16b387e0dbec60bd559beffd2c7046"
+  sha256 "2bc62a582a6b2754c36e5a01cca9f3d875132fb1f0ea02d7af1e09f136d5153f"
   license "AGPL-3.0-or-later"
 
   depends_on "cmake" => :build
